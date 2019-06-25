@@ -3,10 +3,10 @@ Possible Chrome bug regarding reading localStorage
 
 Run it via:
 
-'''
+```
 npm install
 node server.js
-'''
+```
 
 - Call *http://localhost:8080/read.html* in Tab 1 (Do not close the popup!) 
 - Call *http://localhost:8080/write.html* in Tab 2
